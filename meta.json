@@ -6,7 +6,7 @@
   "tags": [],
   "url": "https://github.com/liquid600pgm/nim-glm",
   "refs": [
-    "fatal: unable to access 'https://github.com/liquid600pgm/nim-glm/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/liquid600pgm/nim-glm/': SSL connection timeout",
     ""
   ],
   "heads": []
